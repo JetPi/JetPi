@@ -1,16 +1,21 @@
-### Hi there 👋
+# Sobre mí:
+Soy un Developer Full Stack 💻 enfocado en la perseverancia 💪 y en el trabajo en equipo 😊, siempre esforzandome en llevar a cabo mis tareas de la forma más rápida y eficaz posible, siempre dispuesto a aprender nuevas tecnologías 🎓 con tal de alcanzar un mejor producto.
 
-<!--
-**JetPi/JetPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologías
+- 🐱‍💻 HTML5
+- ✨ CSS
+- 📜 Javascript
+- 🐍 Python
+- 😮 React
+- 🍾 Flask
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estado
+- 🔭 Trabajando en: Serv-U
+- 🌱 Aprendiendo: Metodología Scrum
+- 👯 Me gustaría colaborar con Frontend
+- 🤔 De momento no necesito ayuda con nada
+- 📫 Contactame por: 
+- - Email: ialejandromonasterios@gmail.com
+- - LinkedIn: https://www.linkedin.com/in/ibrahim-z%C3%A1rraga-56ba29240/
+- - Teléfono: 0424-1434083
+- 😄 Pronombre: El
