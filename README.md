@@ -13,7 +13,6 @@ Soy un Developer Full Stack 💻 enfocado en la perseverancia 💪 y en el traba
 - 🔭 Trabajando en: Serv-U
 - 🌱 Aprendiendo: Metodología Scrum
 - 👯 Me gustaría colaborar con Frontend
-- 🤔 De momento no necesito ayuda con nada
 - 📫 Contactame por: 
 - - Email: ialejandromonasterios@gmail.com
 - - LinkedIn: https://www.linkedin.com/in/ibrahim-z%C3%A1rraga-56ba29240/
