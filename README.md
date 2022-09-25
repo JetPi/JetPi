@@ -1,5 +1,5 @@
 # Sobre mí:
-Soy un Developer Full Stack 💻 enfocado en la perseverancia 💪 y en el trabajo en equipo 😊, siempre esforzandome en llevar a cabo mis tareas de la forma más rápida y eficaz posible, siempre dispuesto a aprender nuevas tecnologías 🎓 con tal de alcanzar un mejor producto.
+Soy un Software Developer 💻 perseverante 💪 y me encanta el trabajo en equipo 😊, siempre me esfuerzo al 💯 en llevar a cabo mis tareas a toda costa, y siempre estoy dispuesto a aprender nuevas tecnologías 🎓 con tal de mejorar los frutos de mi trabajo.
 
 ## Tecnologías
 - 🐱‍💻 HTML5
